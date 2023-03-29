@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/VOKVqSaw)
+Gabriela Bravo - Lab 7
+Task One (https://editor.p5js.org/gabyb/sketches/n-djOVa_p): I was only able to get this task done since I had trouble firguring out why one of my loops wasnt showing up. My first step to creating the a loop was making a function. I defined it's x,y variables above set up, and used a loop to repeat my ellipses up to 40 times. Using an array (four different colors), I used the fandom function along with it to have the circles change color every run.
+Task Two (https://editor.p5js.org/gabyb/sketches/9kOtEaZIY): I didn't have time to finish anything past this, but I reached the point where I nestled a loop within a loop. I don't know who to effect Y and multiply it.
